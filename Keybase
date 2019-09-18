@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am ugurbayir on github.
+  * I am hasyurt (https://keybase.io/hasyurt) on keybase.
+  * I have a public key ASCuGbFDRviw68iDHbwxHeGEYMeEXpxUBJ87kiBo7GrGXAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ae19b14346f8b0ebc8831dbc311de18460c7845e9c54049f3b922068ec6ac65c0a",
+      "host": "keybase.io",
+      "kid": "0120ae19b14346f8b0ebc8831dbc311de18460c7845e9c54049f3b922068ec6ac65c0a",
+      "uid": "cbbe43be1bab00ac3bf4465b30df1a19",
+      "username": "hasyurt"
+    },
+    "merkle_root": {
+      "ctime": 1568841252,
+      "hash": "87228bc8e208d951076ade7cedc205fc791ddc6c0d235edefbd19cd2ce39c072b25f65b126baf9a27d899315935ebcd31371e1b034306ed36254a1b5b53cfcf9",
+      "hash_meta": "f56497b16cba3f8509bbfebf2ef55f5fbfb40cf72df68e6b8a06590580a7168b",
+      "seqno": 7578757
+    },
+    "service": {
+      "entropy": "/6ZkIc+Sm3lPPM6hTaum9bIT",
+      "name": "github",
+      "username": "ugurbayir"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568841271,
+  "expire_in": 504576000,
+  "prev": "d76c8673c257f333d853945d5f8333f19c7954e94f2d0a92209a6ad0d0e1ccef",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASCuGbFDRviw68iDHbwxHeGEYMeEXpxUBJ87kiBo7GrGXAo](https://keybase.io/hasyurt), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrhmxQ0b4sOvIgx28MR3hhGDHhF6cVASfO5IgaOxqxlwKp3BheWxvYWTESpcCBsQg12yGc8JX8zPYU5RdX4Mz8Zx5VOlPLQqSIJpq0NDhzO/EIIpCd9VyXyDZ+iWy2mlKYirScnkrTe0k/ZEPO1lcniUPAgHCo3NpZ8RAUFPn1WkPhE+l3roXlq4V6WxQ4UYkLKcmzbO5Z2d1ADHgelAC64UCB+6150+vkUhBGZ9dGVEmTq1IDeMVlerGAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC7pZ0PykLQjYHRex+D7e2xIPLVtD0eFd9xpc8e6SwrAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/hasyurt
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id hasyurt
+```
